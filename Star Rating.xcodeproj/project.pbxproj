@@ -13,6 +13,7 @@
 		869D3D61234FEDFC004887CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 869D3D5F234FEDFC004887CF /* Main.storyboard */; };
 		869D3D63234FEDFD004887CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 869D3D62234FEDFD004887CF /* Assets.xcassets */; };
 		869D3D66234FEDFD004887CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 869D3D64234FEDFD004887CF /* LaunchScreen.storyboard */; };
+		869D3D6E234FF592004887CF /* CustomControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869D3D6D234FF592004887CF /* CustomControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		869D3D62234FEDFD004887CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		869D3D65234FEDFD004887CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		869D3D67234FEDFD004887CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		869D3D6D234FF592004887CF /* CustomControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				869D3D5B234FEDFC004887CF /* SceneDelegate.swift */,
 				869D3D5D234FEDFC004887CF /* ViewController.swift */,
 				869D3D5F234FEDFC004887CF /* Main.storyboard */,
+				869D3D6D234FF592004887CF /* CustomControl.swift */,
 				869D3D62234FEDFD004887CF /* Assets.xcassets */,
 				869D3D64234FEDFD004887CF /* LaunchScreen.storyboard */,
 				869D3D67234FEDFD004887CF /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				869D3D5E234FEDFC004887CF /* ViewController.swift in Sources */,
 				869D3D5A234FEDFC004887CF /* AppDelegate.swift in Sources */,
+				869D3D6E234FF592004887CF /* CustomControl.swift in Sources */,
 				869D3D5C234FEDFC004887CF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
